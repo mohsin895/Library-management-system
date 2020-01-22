@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72c21916-dddd-4718-ba58-5a879ba56bca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WLP1T3lcGMiWRc21b4At2d7f0U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/books" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LMS\images\books" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c21916-dddd-4718-ba58-5a879ba56bca" name="Default Changelist" comment="" />
+      <created>1578925686438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578925686438</updated>
+      <workItem from="1578925687927" duration="13057000" />
+      <workItem from="1578963157366" duration="2585000" />
+      <workItem from="1578967660271" duration="10481000" />
+      <workItem from="1579018096040" duration="4076000" />
+      <workItem from="1579071752795" duration="84000" />
+      <workItem from="1579096804734" duration="21592000" />
+      <workItem from="1579150081614" duration="3885000" />
+      <workItem from="1579155923473" duration="3000" />
+      <workItem from="1579157801539" duration="9961000" />
+      <workItem from="1579177369238" duration="3750000" />
+      <workItem from="1579182802723" duration="778000" />
+      <workItem from="1579184907743" duration="5192000" />
+      <workItem from="1579194937326" duration="12974000" />
+      <workItem from="1579238231486" duration="3703000" />
+      <workItem from="1579252186109" duration="1432000" />
+      <workItem from="1579271380607" duration="12973000" />
+      <workItem from="1579311980716" duration="4963000" />
+      <workItem from="1579328503550" duration="7861000" />
+      <workItem from="1579342188358" duration="600000" />
+      <workItem from="1579355262553" duration="21508000" />
+      <workItem from="1579403726585" duration="120000" />
+      <workItem from="1579440084073" duration="1181000" />
+      <workItem from="1579447230361" duration="12729000" />
+      <workItem from="1579501312490" duration="9595000" />
+      <workItem from="1579547672883" duration="14069000" />
+      <workItem from="1579572051788" duration="11408000" />
+      <workItem from="1579611221956" duration="4943000" />
+      <workItem from="1579659506184" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="0" key="#PHP" timestamp="1579504918486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1579504918486" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579452687028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579452687028" />
+    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1579185477780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1579185477780" />
+    <state x="154" y="15" key="SettingsEditor" timestamp="1579509347123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="154" y="15" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579509347123" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1578930031896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1578930031896" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1579659597198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579659597198" />
+    <state x="620" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578931617406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="620" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578931617406" />
+  </component>
+</project>
